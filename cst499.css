@@ -1,0 +1,18 @@
+body {
+    background-color: #B7B5B3;
+    font-family: "Calibri";
+}
+.mainhead {
+    border: 5px;
+    background-color: #E5E7E6;
+    text-align: center;
+}
+.subhead {
+    background-color: #E5E7E6;
+    width: 25%;
+}
+.links {
+    border: 5px;
+    background-color: #E5E7E6;
+    width: 25%;
+}
